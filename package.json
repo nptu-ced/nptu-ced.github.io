@@ -1,0 +1,31 @@
+{
+  "name": "nptu-ced.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nptu-ced/nptu-ced.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nptu-ced/nptu-ced.github.io/issues"
+  },
+  "homepage": "https://github.com/nptu-ced/nptu-ced.github.io#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3",
+    "parcel": "^2.8.1",
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.1",
+    "@parcel/transformer-vue": "^2.8.1"
+  }
+}
